@@ -37,7 +37,7 @@ I'm based in NYC (Eastern Standard Time).
 #  My Identity (๑˃ᴗ˂)ﻭ
 | This is Me | This is also Me | This is Maple
 | ----------- | ----------- | ----------- |
-| ![Ally has black hair with thier hair pulled back. They wear rounded square glasses, a black turtleneck, and a grey peacoat with a dragonair enamel pin](headshot.jpg) | ![Kagamine Len - Beyond the Way](also_me.jpeg) <br> I made the costume! (and the wig)|![Maple the dog is light tan with white patches on their face and chest. She has very long ears and is a very good girl](maple.jpeg) |
+| <img src="img/headshot.jpg" alt="Ally has black hair with thier hair pulled back. They wear rounded square glasses, a black turtleneck, and a grey peacoat with a dragonair enamel pin" width="300"/> | <img src="img/also_me.jpg" alt="I made the costume! (and the wig)drawing" width="300"/> | <img src="img/maple.jpg" alt="Maple the dog is light tan with white patches on their face and chest. She has very long ears and is a very good girl" width="300"/> |
 
 ### 🙏 Things that I need
 ---
