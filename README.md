@@ -9,16 +9,16 @@ Hello comrades and colleagues! This document provides some information about how
 I'm based in NYC (Eastern Standard Time).
 | Status | EST | PST | CST
 | ----------- | ----------- | ----------- | ----------- |
-| Responsive | 10:00am - 6:00pm Daily| 7:00am - 3:00pm | 9:00am - 5:00pm |
-| Away (Walking Maple) | TBD | TBD | TBD |
-| Away (Physical Therapy) | TBD| TBD | TBD|
+| Responsive | 9:00am - 5:00pm Daily| 6:00am - 2:00pm | 8:00am - 4:00pm |
+| Away (Walking Maple) | 30min Tues/Wed | Wherever Possible | Between meetings |
+| Away (Physical Therapy) | 9:30-11:30am Mon| 6:30-8:30am Mon| 8:30-10:30am Mon|
 | Solo Code / Unresponsive <br> (deadline dependant) | 5:00pm - Task Complete | 2:00pm -  | 4:00pm -  |
 
 ---
 
 ### 🗣️ The Best Way to Communicate with Me
 #### In Meetings
-- I feel most able to communicate my thoughts and ideas in a prepared and organized manner. Whenever exploring new projects, ideas, or operations, **I prefer to create a deck, even when the session is casual in nature**. I have no preferences for intaking information, so dealers choice! ╮(︶▽︶)╭
+- I feel most able to communicate my thoughts and ideas in a prepared and organized manner. For most ad hoc meetings, I will come with an agenda prepared. **Whenever pitching or suggesting new projects, ideas, or operations, I prefer to create an deck, even when the session is casual in nature**. I have no preferences for intaking information, so dealers choice! ╮(︶▽︶)╭
 
 #### In Pairing Sessions
 - **Regularly scheduled, but easily cancellable sessions** to discuss what we are working on, help each other by being a rubber duck, and to casually yap is the best way for me to connect with remote colleagues. <br><br>Having a designated time block for active collaboration helps me reduce required transition time introduced by ad hoc calls, and holds space for any issues, bugs, experiences, or piping hot tea you end up wanting to discuss with me. **Let's work together to find a cadence that is comfortable for us!**
